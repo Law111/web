@@ -1,0 +1,26 @@
+body {
+	background-color: slategray;
+}
+
+h1 {
+	font-family:  Monaco, Monospace;
+	font-size: 3.5em;
+	border: medium solid white;
+}
+
+h2 {
+	font-family:  Monaco, Monospace;
+}
+
+ol {
+	background-color: #657C91;
+}
+
+a {
+	color: #7FB7E7;
+}
+
+p {
+	font-family: FreeMono, Monospace;
+	font-size: .9em;
+}
