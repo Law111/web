@@ -6,12 +6,18 @@ h1 {
 	font-family:  Monaco, Monospace;
 	font-size: 3.5em;
 	border: medium solid white;
-	color: #B3C7D6FF;
+	color: #2460A7FF;
 	text-align: center;
 }
 
 h2 {
 	font-family:  Monaco, Monospace;
+	border: medium solid white;
+	text-align: center;
+	width: 1360px;
+	margin: auto;
+	margin-bottom: 40px;
+	margin-top: 40px;
 }
 
 
@@ -23,6 +29,11 @@ ol {
 p {
 	font-family: FreeMono, Monospace;
 	font-size: .9em;
+	border: medium solid white;
+	margin: auto;
+	width: 1300px;
+	height: 160px;
+	padding: 30px 30px;
 }
 
 
@@ -47,5 +58,4 @@ li a {
 	padding: 10px 30px;
 	text-decoration: none;
 }
-
 	
