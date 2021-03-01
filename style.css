@@ -14,12 +14,12 @@ h2 {
 	font-family:  Monaco, Monospace;
 	border: medium solid white;
 	text-align: center;
-	width: 1360px;
-	height: 120px;
+	width: 1330px;
+	height: 35px;
 	margin: auto;
 	margin-bottom: 40px;
 	margin-top: 40px;
-	padding: 60px;
+	padding: 35px;
 }
 
 
@@ -47,17 +47,19 @@ ul {
 	list-style: none;
 }
 
-li {
+nav ul li {
 	float: left;
 	text-align: center;
 	font-family: FreeMono, Monospace;
 	
 }
 
-li a {
+nav ul li a {
 	display: block;
 	color: #7FB7E7;
 	padding: 40px 30px;
 	text-decoration: none;
 }
-	
+li a {
+	color: #7FB7E7;
+}
