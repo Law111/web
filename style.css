@@ -19,6 +19,7 @@ h2 {
 	margin: auto;
 	margin-bottom: 40px;
 	margin-top: 40px;
+	padding: 60px;
 }
 
 
@@ -50,12 +51,13 @@ li {
 	float: left;
 	text-align: center;
 	font-family: FreeMono, Monospace;
+	
 }
 
 li a {
 	display: block;
 	color: #7FB7E7;
-	padding: 10px 30px;
+	padding: 40px 30px;
 	text-decoration: none;
 }
 	
