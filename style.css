@@ -6,11 +6,14 @@ h1 {
 	font-family:  Monaco, Monospace;
 	font-size: 3.5em;
 	border: medium solid white;
+	color: #B3C7D6FF;
+	text-align: center;
 }
 
 h2 {
 	font-family:  Monaco, Monospace;
 }
+
 
 ol {
 	background-color: #657C91;
