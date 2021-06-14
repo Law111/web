@@ -29,7 +29,7 @@ h2 {
 	width: 300px;
     padding: 10px;
 	margin-top: 80px;
-	margin-left: 553px;
+	margin-left: 540px;
 	text-align: center;
 	font-size: 1.3em;
 	font-style: italic;
@@ -51,3 +51,7 @@ p {
 	color: #2F4F4F;
 }
 	
+img {
+	margin: auto;
+	padding: 30px;
+)
